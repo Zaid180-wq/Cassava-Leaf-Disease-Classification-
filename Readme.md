@@ -86,8 +86,10 @@ Cassava-Leaf-Disease-Classification/
 - Best Performing Class: CMD (Majority Class, F1 ≈ 0.92)  
 - Insight: Model performs well on majority classes but has moderate performance on rare classes.
 
-*(put confusion matrix here)*  
-*(put training/validation curves here)*  
+<img width="656" height="516" alt="image" src="https://github.com/user-attachments/assets/6b865b35-3131-45bd-b50f-4a2c279b2efb" />
+
+<img width="1162" height="541" alt="image" src="https://github.com/user-attachments/assets/ce56181c-3859-4a11-88d7-086bf9b513a2" />
+
 
 ---
 
